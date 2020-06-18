@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erlang-etf (2.0.0)
+      erlang-terms (~> 2.0)
+    erlang-terms (2.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  erlang-etf (~> 2.0)
+
+BUNDLED WITH
+   1.17.2
